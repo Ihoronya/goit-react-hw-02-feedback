@@ -5,9 +5,9 @@
     font-size: 16px;
     font-weight: 700;
     text-transform: uppercase;
-    color: #B94629;
+    color: #3f231d;
     text-decoration: none;
-    border-color: #B94629;
+    border-color: #3f231d;
     outline: none;
     border-radius: 10px;
     background-color: #E3DEC1;
@@ -21,5 +21,5 @@
 
 .button:hover {
     color: #E3DEC1;
-    background-color: #B94629;
+    background-color: #3f231d;
 }

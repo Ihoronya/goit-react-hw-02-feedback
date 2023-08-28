@@ -4,7 +4,8 @@
     margin-right: auto;
     padding: 25px;
     box-shadow: var(--boxShadow);
-    border: 2px solid #B94629;
+    border: 2px solid #3f231d;
+    border-radius: 9px;
 }
 
 .title {
