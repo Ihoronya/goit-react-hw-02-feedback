@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Ihoronya/goit-react-hw-02-feedback/static/css/main.95a20565.css",
-    "main.js": "/Ihoronya/goit-react-hw-02-feedback/static/js/main.e41f05c8.js",
-    "static/media/bg2.avif": "/Ihoronya/goit-react-hw-02-feedback/static/media/bg2.ee04075177520f3f0a9d.avif",
-    "index.html": "/Ihoronya/goit-react-hw-02-feedback/index.html",
-    "main.95a20565.css.map": "/Ihoronya/goit-react-hw-02-feedback/static/css/main.95a20565.css.map",
-    "main.e41f05c8.js.map": "/Ihoronya/goit-react-hw-02-feedback/static/js/main.e41f05c8.js.map"
+    "main.css": "/goit-react-hw-02-feedback/static/css/main.3f09cb39.css",
+    "main.js": "/goit-react-hw-02-feedback/static/js/main.e41f05c8.js",
+    "static/media/bg2.avif": "/goit-react-hw-02-feedback/static/media/bg2.ee04075177520f3f0a9d.avif",
+    "index.html": "/goit-react-hw-02-feedback/index.html",
+    "main.3f09cb39.css.map": "/goit-react-hw-02-feedback/static/css/main.3f09cb39.css.map",
+    "main.e41f05c8.js.map": "/goit-react-hw-02-feedback/static/js/main.e41f05c8.js.map"
   },
   "entrypoints": [
-    "static/css/main.95a20565.css",
+    "static/css/main.3f09cb39.css",
     "static/js/main.e41f05c8.js"
   ]
 }
